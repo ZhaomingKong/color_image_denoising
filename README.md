@@ -11,6 +11,8 @@ For more information, please refer to our paper 'A Brief Review of Real-World Co
 
 For more demos, please visit https://531623594.wixsite.com/pure-image.
 
+
+*****************************
 @ARTICLE{Kong_TIP,
 author={Z. {Kong} and X. {Yang}},
 journal={IEEE Transactions on Image Processing},
@@ -23,3 +25,4 @@ keywords={image colour analysis;image denoising;image filtering;image representa
 doi={10.1109/TIP.2019.2907478},
 ISSN={},
 month={Sep.},}
+*****************************
